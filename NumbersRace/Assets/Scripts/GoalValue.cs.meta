@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4dc973a8133311341b03d29e6916afc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+$ ln -s /usr/local/share/dotnet/dotnet /usr/local/bin/
